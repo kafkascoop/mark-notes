@@ -149,4 +149,9 @@ Your notes are now synced, backed up, and safe. 💾✨
 > <span style="color:#E63946;">Learning becomes powerful when it’s organized.</span>  
 > <span style="color:#6C63FF;">This repo is my personal knowledge base — clear, colorful, and evolving.</span>
 
-Thanks for exploring! 🪐💫
+
+
+### ❤️ **Made with love and caffeine ☕**
+<div align="right" style="font-size:20px;">
+  <strong><span style="color:green;">--- agontuk</span></strong>
+</div>
