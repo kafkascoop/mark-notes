@@ -1,6 +1,6 @@
 ---
 
-##📚 Module 5:Closing-the-Window
+## 📚 Module 5:Closing-the-Window
 
 ---
 
@@ -149,3 +149,4 @@ Remember the entrepreneur must transition from:
 * This transition requires shifting focus from **short-term execution** to **long-term vision** and **professionalizing** the business structure.
 
 ---
+
