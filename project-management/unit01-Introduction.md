@@ -1,4 +1,4 @@
-## 📝 Project Management & Entrepreneurship: Study Notes
+# 📝 Project Management & Entrepreneurship: Study Notes
 ## Module 1: Introduction
 
 ---
@@ -214,4 +214,5 @@ Think of Risk Mitigation as having a **Backup Plan (C-A-R-T)** for every major r
 | **1. Meaning & Concept** | **High** (Definitional Qs) | Define Entrepreneur/ship, Contrast with Management, Use Stevenson's quote, Flowchart. |
 | **2. Innovation & Ent.** | **High** (Conceptual Qs) | Define Innovation, Use Schumpeter's 'Creative Destruction', Detail the Four P's, Give a clear example (Uber/Apple). |
 | **3. Contributions** | **Very High** (Direct Qs) | Structure clearly: Economic Contributions (Jobs, GDP) vs. Social Contributions (Disparity, Standard of Living), Use the J-E-S-T mnemonic. |
+
 | **4. Risk-Opportunities** | **Medium-High** (Analytical Qs) | Define Risk/Opportunity, List the 4 Risk Types, Detail 2-3 specific Mitigation Strategies for each, Use the Risk/Reward Graph. |
