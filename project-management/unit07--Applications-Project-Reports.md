@@ -1,4 +1,3 @@
----
 ## 📑 Module 7: Applications and Project Reports Preparation Study Notes
 
 
@@ -112,3 +111,4 @@ The Project Report is not just a theoretical exercise; it is applied directly in
 * Successful application requires tailoring the report's focus to the **audience's primary concern** (risk vs. growth).
 
 ---
+
