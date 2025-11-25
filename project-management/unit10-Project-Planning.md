@@ -1,9 +1,9 @@
 
----
 
-## 📅 Module 10: Project Planning Study Notes
 
----
+# 📅 Module 10: Project Planning Study Notes
+
+
 
 ## 1. Importance of Project Planning
 
@@ -127,4 +127,5 @@ The entire **Project Life Cycle (PLC)** (Initiation, Planning, Execution, Closur
 
 ### ✅ Summary/Revision Points
 * **Phased Planning** is used to manage **high uncertainty** by planning in **short, detailed waves**.
+
 * It allows for **flexibility** and incorporates lessons learned from one phase into the planning of the next.
