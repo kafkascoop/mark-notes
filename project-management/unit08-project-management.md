@@ -1,9 +1,9 @@
 
----
 
-## 🎯 Module 8: Project Management Study Notes
 
----
+# 🎯 Module 8: Project Management Study Notes
+
+
 
 ## 1. Definitions of Project and Project Management
 
@@ -129,4 +129,5 @@ The PLC is typically divided into four main sequential phases, often accompanied
 ### ✅ Summary/Revision Points
 * The PLC provides structure, moving sequentially from **defining** the project to **planning** the execution, **executing** the work, and finally **closing** the project.
 * The output of the **Planning Phase** (the PMP) is the roadmap for the **Execution Phase**.
+
 * Formal **Closure** is essential for capturing knowledge and releasing resources.
