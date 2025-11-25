@@ -1,12 +1,12 @@
 
----
 
-## 💻 Module 13: Case Studies and MS-Project Application
+
+# 💻 Module 13: Case Studies and MS-Project Application
 
 ### 📌 Introduction
 Case studies in project management test your ability to apply planning, scheduling, and control concepts (Modules 10-12) to a real-world scenario. Your solution must demonstrate a systematic, step-by-step methodology using tools like the **Work Breakdown Structure (WBS)** and **Critical Path Method (CPM)**, which are easily executed in MS Project.
 
----
+
 
 ## 1. Case Study Framework: 5 Steps to Solution
 
@@ -86,3 +86,4 @@ Your written solution should be structured like a formal mini-Project Management
 * If the case involves **EVM**, calculate $\text{SPI}$ and $\text{CPI}$ and explain the status (e.g., "Since $\text{SPI} = 0.85$, the project is 15% behind schedule, requiring corrective action...").
 
 ---
+
