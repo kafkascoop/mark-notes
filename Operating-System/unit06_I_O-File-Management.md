@@ -152,3 +152,9 @@ How the OS keeps track of which disk blocks are free (unallocated).
     * **Block Size:** Larger blocks reduce the number of I/O operations but increase internal fragmentation.
     * **Disk Scheduling:** Choosing an effective algorithm (like C-SCAN) significantly improves performance by reducing seek time.
     * **Locality of Reference:** Organizing files so that related blocks are physically close together improves access speed.
+
+
+    ### ❤️ **Made with love and caffeine ☕**
+<div align="right" style="font-size:20px;">
+  <strong><span style="color:green;">--- agontuk</span></strong>
+</div>
